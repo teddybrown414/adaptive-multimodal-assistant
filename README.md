@@ -1,5 +1,5 @@
 
-# Adaptive Multimodal Assistant!
+# Adaptive Multimodal Assistant! - Ollama
 
 `Adaptive Multimodal Assistant` is a free AI chatbot crafted to facilitate local interactions with various LLMs, documents, and a range of advanced functionalities. It leverages the `Chainlit` Framework, along with Agents and Chains, to enhance the user experience.
 
