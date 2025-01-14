@@ -82,7 +82,7 @@ To get started, follow these simple steps:
    - **Windows/Linux/macOS**:  
    Visit the [Ollama Download Page](https://ollama.com/download) and follow the instructions to install Ollama on your machine.
 
-   - Visit the Kaggle site. And run https://www.kaggle.com/code/teddybrown414/ollama-server
+   - Visit the Kaggle site. And run https://www.kaggle.com/code/teddybrown414/ollama-server-gpu
    - Copy the `ngrok` URL that the ollama server above gives you and open windows cmd.
    - Input `set OLLAMA_HOST=<ngrok URL you received>`
    - Check whether ollama server is running correctly by cmd `ollama list`
